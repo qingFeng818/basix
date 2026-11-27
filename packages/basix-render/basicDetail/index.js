@@ -1,0 +1,5 @@
+export { default as DetailCardItem } from './components/basicDetailItem'
+export { default as DetailTitleContainer } from './components/basicDetailTitle'
+export { default as BasicDescription } from './components/basicDescription'
+export { default as BasicContainer } from './components/basicContainer'
+export { default as BasicCheckResultStatus } from './components/basicCheckResultStatus'
